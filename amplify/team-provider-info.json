@@ -17,6 +17,9 @@
       },
       "auth": {
         "clsbhoye7ef783cf": {}
+      },
+      "storage": {
+        "s3cb293458": {}
       }
     }
   }

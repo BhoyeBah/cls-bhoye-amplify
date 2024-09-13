@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3cb293458",
+  "policyUUID": "cb293458",
+  "bucketName": "clsbhoyedaddd3ca3c6a414590c5b642c27c0e81",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

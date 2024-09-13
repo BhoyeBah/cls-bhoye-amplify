@@ -5,7 +5,6 @@ import { generateClient } from "aws-amplify/api";
 import { createTodo } from "./graphql/mutations";
 import { listTodos } from "./graphql/queries";
 import { type CreateTodoInput, type Todo } from "./API";
-
 import { withAuthenticator, Button, Heading } from "@aws-amplify/ui-react";
 import { type AuthUser } from "aws-amplify/auth";
 import { type UseAuthenticator } from "@aws-amplify/ui-react-core";
