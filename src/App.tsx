@@ -11,6 +11,7 @@ import { type AuthUser } from "aws-amplify/auth";
 import { type UseAuthenticator } from "@aws-amplify/ui-react-core";
 
 import "@aws-amplify/ui-react/styles.css";
+import "./App.css";
 
 
 const initialState: CreateTodoInput = { name: "", description: "" };
